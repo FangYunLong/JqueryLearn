@@ -1,10 +1,6 @@
 /bin/
 /settings/
 /src/
-/WebRoot/
-!/WebRoot/1.基本内容
-!/WebRoot/2.选择器
-!/WebRoot/3.选择器案例
-!/WebRoot/4.属性和样式
-!/WebRoot/5.文档处理
-!/WebRoot/6.文档处理案例
+/WebRoot/js/
+/WebRoot/META-INF/
+/WebRoot/WEB-INF/
