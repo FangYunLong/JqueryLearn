@@ -2,5 +2,5 @@
 /settings/
 /src/
 /WebRoot/js/
-/WebRoot/META-INF
-/WebRoot/WEB-INF
+/WebRoot/META-INF/
+/WebRoot/WEB-INF/
