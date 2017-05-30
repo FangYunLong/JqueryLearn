@@ -1,7 +1,7 @@
 /bin/
 /settings/
 /src/
-/WebRoot/*
+/WebRoot/
 !/WebRoot/1.基本内容
 !/WebRoot/2.选择器
 !/WebRoot/3.选择器案例
